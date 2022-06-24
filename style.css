@@ -1,0 +1,12 @@
+h2 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: blueviolet;
+}
+
+div:nth-child(1) {
+  background: yellow;
+}
+
+div:nth-child(2) {
+  background: yellow;
+}
